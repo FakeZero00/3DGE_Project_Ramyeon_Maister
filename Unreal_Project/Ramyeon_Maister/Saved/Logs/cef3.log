@@ -1,4 +1,20 @@
-[5956:15972:0615/223835.719:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[5956:15972:0615/223835.782:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[28688:18488:0615/223839.586:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-84551508BC25BE7E25B050397E9E1941 will be ignored
-[5956:15972:0616/002948.288:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[31732:4564:0617/013203.882:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[31732:4564:0617/013203.916:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17800:3460:0617/013206.415:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B21021826B2C9586688B08ACD734B96C will be ignored
+[17532:23040:0617/013219.126:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-761802CAE9D6E238069FD43C581B10BB will be ignored
+[10344:15696:0617/013344.275:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[10344:15696:0617/013344.370:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[10344:15696:0617/013344.562:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[10344:17424:0617/013344.689:ERROR:gl_utils.cc(415)] [.WebGL-000019A004BDCD00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[10344:17424:0617/013344.704:ERROR:gl_utils.cc(415)] [.WebGL-000019A004BDCD00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[10344:17424:0617/013345.787:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[10460:16616:0617/013534.903:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame A-3941922DA503C430F61C24AF3F39A98C will be ignored
+[31732:4564:0617/021535.168:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
